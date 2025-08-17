@@ -1,3 +1,8 @@
+<div align="center">
+    <h4>dev_ROM_Bin分支主要集成openlist_ROM分支中，提供SSD、U盘各种定向资源的业务中，内置edu教育邮箱域名，全程匿名，方便白嫖各种资源</h4> 
+</div>
+
+
 <p align="center">
   <img src="doc/demo/logo.png" width="80px" />
 </p>
